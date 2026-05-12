@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codewithayobami.github.io/archive-gmp962/sitemap.xml
